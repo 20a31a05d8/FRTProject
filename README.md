@@ -1,5 +1,3 @@
-# FRTProject
-Future ready talent repository
 
 # Residential and Commercial Sanitizing Services 
 
