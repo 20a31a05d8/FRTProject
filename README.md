@@ -1,7 +1,7 @@
 
 # Residential and Commercial Sanitizing Services 
 
-This is a web based application developed for Residential and Commercial Sanitizing Services website in india
+This is a web based application developed for Residential and Commercial Sanitizing Services website in india.
 
 ### This web based sanitizing application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
